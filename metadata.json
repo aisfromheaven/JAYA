@@ -1,0 +1,6 @@
+{
+  "name": "JAYA BOGOR",
+  "description": "Janda Yatim Bogor - Platform donasi sosial dan pemberdayaan untuk janda dan anak yatim di seluruh wilayah Bogor, bekerja sama dengan mitra RT/RW dan Akademi Tibersa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

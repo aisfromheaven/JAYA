@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --app-dark-bg: #0c0a09;
+    --app-dark-card-bg: #1c1917;
+    --app-dark-accent: #10b981;
+  }
+}
+
+.dark {
+  background-color: var(--app-dark-bg, #0c0a09);
+  color: #f5f5f4;
+}
